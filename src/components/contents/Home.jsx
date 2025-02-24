@@ -2,7 +2,7 @@ import Header from "./contents/Header";
 import Kanban from "./contents/Kanban";
 import Navbar from "./contents/Navbar";
 import Sidebar from "./contents/Sidebar";
-import Kanban from './contents/Kanban';
+// import Kanban from './contents/Kanban';
 
 const Home = () => {
   return (
